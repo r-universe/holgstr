@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "fmeffects"]
 	path = fmeffects
-	url = https://github.com/holgstr/fme
+	url = https://github.com/holgstr/fmeffects
